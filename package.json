@@ -1,0 +1,22 @@
+{
+  "name": "apple-exercise-data-crunching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zane-programs/apple-exercise-data-crunching.git"
+  },
+  "author": "Zane St. John",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zane-programs/apple-exercise-data-crunching/issues"
+  },
+  "homepage": "https://github.com/zane-programs/apple-exercise-data-crunching#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.6.1"
+  }
+}
